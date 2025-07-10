@@ -2,11 +2,11 @@
 
 
 let arr =[
-    {songName:"Doller siddu mosewala",url:"/songs/doller.mp3",image:"/images/doller-siddumosevala.webp"},
-    {songName:"Hum katha sunate..",url:"/songs/hum.mp3",image:"/images/hum-kath-sunate.webp"},
-    {songName:"Kale Je libas Di..",url:"/songs/libas.mp3",image:"/images/libas.webp"},
-    {songName:"kundi lagale saiya ..",url:"/songs/kundi.mp3",image:"/images/kundi.webp"},
-    {songName:"Ram siya ..",url:"/songs/ram.mp3",image:"/images/ram.webp"}
+    {songName:"Doller siddu mosewala",url:"./songs/doller.mp3",image:"./images/doller-siddumosevala.webp"},
+    {songName:"Hum katha sunate..",url:"./songs/hum.mp3",image:"./images/hum-kath-sunate.webp"},
+    {songName:"Kale Je libas Di..",url:"./songs/libas.mp3",image:"./images/libas.webp"},
+    {songName:"kundi lagale saiya ..",url:"./songs/kundi.mp3",image:"./images/kundi.webp"},
+    {songName:"Ram siya ..",url:"./songs/ram.mp3",image:"./images/ram.webp"}
 
 ];
 
