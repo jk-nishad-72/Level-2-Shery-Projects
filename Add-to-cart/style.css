@@ -10,3 +10,8 @@
 .shader{
     background: linear-gradient(to right bottom, #69628a, #040309);
 }
+
+.product:active{
+
+    scale: 0.9;
+}
